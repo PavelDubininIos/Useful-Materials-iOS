@@ -1,6 +1,6 @@
 # Remove constraints with Array
 
-```
+```swift
 extension Array {
     
     func removeConstraints() {
@@ -12,7 +12,7 @@ extension Array {
 ```
 
 ## Example
-```
+```swift
     override func viewDidLoad() {
         super.viewDidLoad()
         ...

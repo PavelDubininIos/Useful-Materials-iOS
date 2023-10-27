@@ -1,6 +1,6 @@
 # Add Subview
 
-```
+```swift
 extension UIView {
     
     func addSubviews(_ subviews: UIView...) {
@@ -18,7 +18,7 @@ extension UIView {
 ```
 
 ## Example
-```
+```swift
     private func setupViews() {
         topView.addSubviews(someImage, anotherImage, someLabel)
         

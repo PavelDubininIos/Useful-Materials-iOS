@@ -2,7 +2,7 @@
 
 
 ## Date -> String
-```
+```swift
     extension Date {
     
     func toStringFormate(_ formateTo: String) -> String {
@@ -14,7 +14,7 @@
 ```
 
 ## String -> Date
-```
+```swift
 extension String {
     
     func toStringDate(_ date: String) -> Date {

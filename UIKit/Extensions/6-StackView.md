@@ -1,6 +1,6 @@
 # Stack View Extension
 
-```
+```swift
 extension UIStackView {
     
     convenience init(arrangedSubviews: [UIView], axis: NSLayoutConstraint.Axis, spacing: CGFloat) {
@@ -26,7 +26,7 @@ extension UIStackView {
 ```
 
 ## Example
-```
+```swift
     private var fullStackView = UIStackView()
     
     private func viewTranslatesAutoresizingMaskIntoConstraintsToFalse() {

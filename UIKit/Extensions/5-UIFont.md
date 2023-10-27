@@ -17,7 +17,7 @@ extension UIFont {
 ```
 
 ## Example
-```
+```swift
     private lazy var SomeLabel: UILabel = {
         let label = UILabel()
         label.font = .helvetica16()
