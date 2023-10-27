@@ -9,5 +9,5 @@
 
 ## Example
 ```swift
-    view.backgroundColor = .navigationColor
+    view.backgroundColor = .someColor
 ```
